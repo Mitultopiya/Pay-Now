@@ -15,8 +15,8 @@ More images - [Click Here](https://github.com/ShubSi26/Pay-Now/tree/main/images)
 # Local Setup
 - ## By CLI
   ```bash
-  git clone https://github.com/ShubSi26/Pay-Now.git
-  ```
+  git clone https://github.com/Mitultopiya/Pay-Now.git
+  `git init``
   In home folder, run
   ```bash
   build
